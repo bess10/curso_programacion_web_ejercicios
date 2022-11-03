@@ -1,0 +1,16 @@
+{
+  "name": "bessy_clinica",
+  "version": "1.0.0",
+  "description": "Ejercio con node js y mysql",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/index.js"
+  },
+  "author": "Bessy Salgado",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^2.3.3"
+  }
+}
