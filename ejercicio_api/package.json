@@ -1,0 +1,14 @@
+{
+  "name": "bessy_evaluacion_continua",
+  "version": "1.0.0",
+  "description": "ejercicios de evaluación continua",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bessy Salgado",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
